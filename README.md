@@ -1,6 +1,7 @@
 # Vrinda Store Data Analysis (2022)
 I have used excel to analyse Vrinda Store Data. I built different charts and then made a automated dashboard using those charts.
-I have cleaned the data, process the data, analyse the data then generates the insights from the data. 
+I have cleaned the data, process the data, analyse the data then generates the insights from the data.
+**This project was created with the guidance of a YouTube tutorial by Rishabh Mishra**. You can watch the tutorial [here](https://youtu.be/gTK5rNhWJyA?si=Lu96A8K5MGCCI5P4).
 ## Objective:
 Vrinda Store wants to create an Annual Sales Report for 2022.
 So that, Vrinda can understand their customers and grow more sales in 2023.
